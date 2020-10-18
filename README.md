@@ -1,4 +1,4 @@
-# Shortest-Path-Comparison
+# Shortest-Path Algorithms Comparison
 
 Comparing shortest-path algorithms: Dijkstra, A*, and Landmark
 
